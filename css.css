@@ -45,7 +45,7 @@ body{
 }
 .loginbox input{
 	width:100%;
-	margin-bottom:20px;
+	margin-bottom:18px;
 }
 .loginbox input[type="text"],.loginbox input[type="password"]{
 	border:none;
@@ -76,7 +76,7 @@ body{
 ul{
 float:right;
 margin-right:100px;
-margin-top:50px;
+margin-top:55px;
 }
 
 ul li{
@@ -192,7 +192,7 @@ padding-top:100px;
 }
 .feed h2{
 background-color:white;
-padding-bottom:200px;
+padding-bottom:198px;
 
 }
 .feed p{
@@ -269,7 +269,7 @@ padding-right:20px;
 	width:25%;
 	height:100%;
 	float:left;
-	color: white;
+	color: whitesmoke;
 }
 .about h1{
 	float:left;
@@ -291,7 +291,7 @@ padding-right:20px;
     width: 100%;
     height: 100%;
     margin-top: 250px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 .title{
 	width:100%;
@@ -337,14 +337,14 @@ padding-right:20px;
 	font-style:italic;
 }
 .gallerybtn{
-	color: white;
+	color: whitesmoke;
     font-size: 25px;
 }
 .gallery{
 	width: 100%;
     height: auto;
     margin-top: 250px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 .gallerytitle{
 	width:100%;
@@ -366,14 +366,14 @@ padding-right:20px;
 	margin-bottom:50px;
 }
 .contactbtn{
-	color: white;
+	color: whitesmoke;
     font-size: 25px;
 }
 .contactus{
 	width: 100%;
     height: auto;
     margin-top: 250px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 .contacttitle{
 	width:100%;
@@ -392,7 +392,7 @@ padding-right:20px;
 	background:black;
 }
 .contactform h1{
-	color:white;
+	color:whitesmoke;
 	text-align:center;
 	margin-top:50px;
 }
@@ -408,7 +408,7 @@ padding-right:20px;
 	height:40px;
 	color:#fff;
 	font-size:16px;
-	margin-bottom: 20px;
+	margin-bottom: 18px;
 }
 
 .contactform  a{
@@ -422,7 +422,7 @@ padding-right:20px;
 	width:50%;
 	height:700px;
 	float:right;
-	background:white;
+	background:whitesmoke;
 }
 .contactaddress h1{
 	text-align:center;
@@ -439,16 +439,16 @@ padding-right:20px;
 	font-size:20px;
 }
 .container{
-	color: white;
+	color: whitesmoke;
 	margin-top: 150px;
 	margin-left: 450px;
 }
 .sign{
-	color: white;
+	color: whitesmoke;
 	margin-left: 550px;
 }
 .regnot{
-	color: white;
+	color: whitesmoke;
 	margin-top: 50px;
 	margin-left: 430px;
 }
@@ -456,7 +456,7 @@ padding-right:20px;
 	margin-left: 550px;
 }
 .psw{
-	color: white;
+	color: whitesmoke;
 }
 .regname{
 	margin-left: 90px;
